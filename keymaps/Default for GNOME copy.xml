@@ -38,5 +38,8 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="ToggleMainMenuAction">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="hg4idea.QPushAction" />
 </keymap>
